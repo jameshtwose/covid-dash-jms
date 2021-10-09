@@ -11,7 +11,14 @@ gunicorn==20.1.0
 itsdangerous==2.0.1
 Jinja2==3.0.2
 MarkupSafe==2.0.1
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///opt/concourse/worker/volumes/live/c646f6b9-b398-438d-7dc7-c7142e0ba44b/volume/numpy_and_numpy_base_1596235504536/work
+pandas @ file:///opt/concourse/worker/volumes/live/f14cf8c4-c564-4eff-4b17-158e90dbf88a/volume/pandas_1602088128240/work
 plotly==5.3.1
+python-dateutil==2.8.1
+pytz==2020.1
 six==1.16.0
 tenacity==8.0.1
 Werkzeug==2.0.2
